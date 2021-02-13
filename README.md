@@ -1,5 +1,5 @@
 # Shadow
-A "Shadow" use a  brute-force technique where attackers run through common words and phrases
+A "Shadow" use a  brute-force technique where attackers run through common words and phrases.
 
 USE A :
 git clone https://github.com/hackerboyalex/Shadow
