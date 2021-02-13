@@ -2,11 +2,11 @@
 A "Shadow" use a  brute-force technique where attackers run through common words and phrases
 
 USE A :
-git clone https://github.com/hackerboyalex/Facebooktools
+git clone https://github.com/hackerboyalex/Shadow
  
 root@alex:~# cd Facebooktools
  
-root@alex:~# perl  hackerboyalex "victim id" worlist.txt (your wordlist path)
+root@alex:~# perl shadow "hackerboyalex" (victim id) "worlist.txt" (your wordlist path)
 
 Terms & Vonditions
 
