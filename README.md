@@ -1,8 +1,12 @@
 # Shadow
 A "Shadow" use a  brute-force technique where attackers run through WordList (Dictionary).
 
-
-
+# Images
+<img src="Images/IMG20210213210422.jpg" width="400" height="500">
+<img src="Images/IMG20210213210345.jpg" width="400" height="500">
+<img src="Images/IMG20210213210446.jpg" width="400" height="500">
+<img src="Images/IMG20210213210450.jpg" width="400" height="500">
+<img src="Images/IMG20210213210504.jpg" width="400" height="500">
 
 # Requirements:
 1) Linux (Kali Linux, Parrot OS, etc)
@@ -10,7 +14,6 @@ A "Shadow" use a  brute-force technique where attackers run through WordList (Di
 3) WordList ( Download from Internet or make own Wordlist)
 4) Fast Internet Conection
 5) Tor Install (optional)
-
 
 # Usage :
 rolt@alex:~# service tor start/stop
