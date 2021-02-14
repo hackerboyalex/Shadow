@@ -3,7 +3,6 @@ A "Shadow" use a  brute-force technique where attackers run through WordList (Di
 
 # Images
 <img src="Images/IMG20210213210422.jpg" width="400" height="500">
-<img src="Images/IMG20210213210345.jpg" width="400" height="500">
 <img src="Images/IMG20210213210504.jpg" width="400" height="500">
 
 # Requirements:
