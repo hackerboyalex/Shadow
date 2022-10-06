@@ -1,5 +1,5 @@
 # Shadow
-A "Shadow" tool for brute-force password of facebook.
+A "Shadow" tool for brute-force the password of facebook.
 
 # Images
 <img src="Images/IMG20210213210422.jpg" width="400" height="500">
